@@ -1,2 +1,2 @@
 # html-portfolio
-My first website wit hjust html.
+My first website with just html.
